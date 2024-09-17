@@ -1,34 +1,34 @@
-# <center>MOS¹Ü»ù´¡ÖªÊ¶
-## Ò»¡¢·ÖÀà
-1. N¹µµÀMOS¹Ü 
-  <div align="center"> <img src="./½ØÍ¼/N¹µµÀMOS¹Ü.png"/> </div>
+# <center>MOSç®¡åŸºç¡€çŸ¥è¯†
+## ä¸€ã€åˆ†ç±»
+1. Næ²Ÿé“MOSç®¡ 
+  <div align="center"> <img src="./æˆªå›¾/Næ²Ÿé“MOSç®¡.png"/> </div>
 
-2. P¹µµÀMOS¹Ü
-   <div align="center"> <img src="./½ØÍ¼/P¹µµÀMOS¹Ü.png"/> </div><br>
+2. Pæ²Ÿé“MOSç®¡
+   <div align="center"> <img src="./æˆªå›¾/Pæ²Ÿé“MOSç®¡.png"/> </div><br>
 
-**×¢£º**
-==¼ýÍ·Ö¸ÏòG¼«µÄÊÇN¹µµÀMOS¹Ü==
-==¼ýÍ·Ö¸ÀëG¼«µÄÊÇP¹µµÀMOS¹Ü==
+**æ³¨ï¼š**
+==ç®­å¤´æŒ‡å‘Gæžçš„æ˜¯Næ²Ÿé“MOSç®¡==
+==ç®­å¤´æŒ‡ç¦»Gæžçš„æ˜¯Pæ²Ÿé“MOSç®¡==
 
-## ¶þ¡¢µç¼«
-* G¼«£¨Gate£©¡ª¡ª Õ¤¼«£¬¿ØÖÆµçÂ·µÄÍ¨¶Ï
-* S¼«£¨Source£©¡ª¡ª Ô´¼«£¬Á½¸ùÏßÏà½»µÄÊÇÔ´¼«
-* D¼«£¨Drain£©¡ª¡ª Â©¼«£¬µ¥¸ùÏßµÄÊÇÂ©¼«
+## äºŒã€ç”µæž
+* Gæžï¼ˆGateï¼‰â€”â€” æ …æžï¼ŒæŽ§åˆ¶ç”µè·¯çš„é€šæ–­
+* Sæžï¼ˆSourceï¼‰â€”â€” æºæžï¼Œä¸¤æ ¹çº¿ç›¸äº¤çš„æ˜¯æºæž
+* Dæžï¼ˆDrainï¼‰â€”â€” æ¼æžï¼Œå•æ ¹çº¿çš„æ˜¯æ¼æž
 
-## Èý¡¢µ¼Í¨Ê±µçÁ÷Á÷Ïò
-- N¹µµÀMOS¹Ü£ºD¼« ¡ª¡ª> S¼«
-- P¹µµÀMOS¹Ü£ºS¼« ¡ª¡ª> D¼«
+## ä¸‰ã€å¯¼é€šæ—¶ç”µæµæµå‘
+- Næ²Ÿé“MOSç®¡ï¼šDæž â€”â€”> Sæž
+- Pæ²Ÿé“MOSç®¡ï¼šSæž â€”â€”> Dæž
 
-**ËùÒÔ£¬MOS¹Ü×÷¿ª¹Ø×÷ÓÃÊ±£º**
-- **NMOS¹ÜD¼«½ÓÊäÈë£¬S¼«½ÓÊä³ö**
-- **PMOS¹ÜS¼«½ÓÊäÈë£¬D¼«½ÓÊä³ö**
+**æ‰€ä»¥ï¼ŒMOSç®¡ä½œå¼€å…³ä½œç”¨æ—¶ï¼š**
+- **NMOSç®¡DæžæŽ¥è¾“å…¥ï¼ŒSæžæŽ¥è¾“å‡º**
+- **PMOSç®¡SæžæŽ¥è¾“å…¥ï¼ŒDæžæŽ¥è¾“å‡º**
 
-==¼´£¬¼ÄÉú¶þ¼«¹Ü¸º¼«½ÓÊäÈë¶Ë£¬Õý¼«½ÓÊä³ö¶Ë==
+==å³ï¼Œå¯„ç”ŸäºŒæžç®¡è´ŸæžæŽ¥è¾“å…¥ç«¯ï¼Œæ­£æžæŽ¥è¾“å‡ºç«¯==
 
-  <div align="center"> <img src="./½ØÍ¼/MOS¹Üµ¼Í¨Ê±µçÁ÷Á÷ÏòÍ¼.png"/> </div><br>
+  <div align="center"> <img src="./æˆªå›¾/MOSç®¡å¯¼é€šæ—¶ç”µæµæµå‘å›¾.png"/> </div><br>
 
-==MOS¹Üµ¼Í¨Ê±µçÁ÷Á÷ÏòÓë¼ÄÉú¶þ¼«¹Üµ¼Í¨·½ÏòÏà·´==
+==MOSç®¡å¯¼é€šæ—¶ç”µæµæµå‘ä¸Žå¯„ç”ŸäºŒæžç®¡å¯¼é€šæ–¹å‘ç›¸å==
 
-## ËÄ¡¢MOS¹Üµ¼Í¨Ìõ¼þ
-- NMOS¹Üµ¼Í¨£ºU~G~ > U~S~
-- PMOS¹Üµ¼Í¨£ºU<sub>G</sub> < U<sub>S</sub>
+## å››ã€MOSç®¡å¯¼é€šæ¡ä»¶
+- NMOSç®¡å¯¼é€šï¼šU~G~ > U~S~
+- PMOSç®¡å¯¼é€šï¼šU<sub>G</sub> < U<sub>S</sub>
